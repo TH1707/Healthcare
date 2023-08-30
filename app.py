@@ -8,9 +8,9 @@ heading_style = '''
 <h1>Healthcare</h1>
 </div>
 '''
-def return_df(id,
-gender,
-    	age,
+def return_df(
+                gender,
+    	        age,
 		hypertension,
 		heart_disease,
 		ever_married,
@@ -20,7 +20,6 @@ gender,
 		bmi,
 		smoking_status
 		):
-	'id':[id]
     'gender':[gender],
 	'age':[age],
 		'hypertension':[hypertension],
