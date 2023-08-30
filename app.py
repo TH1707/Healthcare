@@ -11,9 +11,9 @@ heading_style = '''
 def return_df(id,
 gender,
     	age,
-		hypertension	'
+		hypertension,
 		heart_disease,
-		ever_married	,
+		ever_married,
 		work_type,
 		Residence_type,
 		avg_glucose_level,
