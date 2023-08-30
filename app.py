@@ -20,7 +20,7 @@ gender,
 		bmi,
 		smoking_status
 		):
-	'id',[id]
+	'id':[id],
     'gender':[gender],
 	'age':[age],
 		'hypertension':[hypertension],
